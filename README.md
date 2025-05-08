@@ -25,4 +25,4 @@ gradle build
 To run the application, use:
 ```bash
 gradle run
-``'
+```

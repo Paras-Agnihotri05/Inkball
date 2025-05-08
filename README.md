@@ -1,7 +1,25 @@
 # Inkball
 
 ## Project Overview
-Inkball is a Java-based project that [brief description of what the project does].
+Inkball is a Java-based clone of the classic puzzle game originally featured in Windows Vista. Built with object-oriented principles, this game challenges players to guide colored balls into matching goals using user-drawn lines and real-time physics.
+
+✨ Features
+Smooth ball movement and collision detection
+
+User interaction through mouse-drawn paths
+
+Dynamic level layout with walls, goals, and obstacles
+
+Timer and scoring system
+
+Modular and extensible code structure (easy to add levels or ball types)
+
+💻 Technologies Used
+Java Swing for GUI and event handling
+
+Object-Oriented Programming (OOP) principles
+
+Custom game loop and rendering logic
 
 ## Prerequisites
 - Java 8 JDK

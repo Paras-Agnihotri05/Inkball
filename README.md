@@ -14,12 +14,6 @@ Timer and scoring system
 
 Modular and extensible code structure (easy to add levels or ball types)
 
-💻 Technologies Used
-Java Swing for GUI and event handling
-
-Object-Oriented Programming (OOP) principles
-
-Custom game loop and rendering logic
 
 ## Prerequisites
 - Java 8 JDK

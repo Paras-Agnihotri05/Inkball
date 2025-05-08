@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inkball.BallTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-05-08T04:00:51.389Z" hostname="Parass-MacBook-Pro.local" time="0.006">
+  <properties/>
+  <testcase name="testAttractionToHoles()" classname="inkball.BallTest" time="0.0"/>
+  <testcase name="testBallInitialization()" classname="inkball.BallTest" time="0.0"/>
+  <testcase name="testScoreUpdateOnCapture()" classname="inkball.BallTest" time="0.001"/>
+  <testcase name="testBallShrinking()" classname="inkball.BallTest" time="0.001"/>
+  <testcase name="testCollisionDetection()" classname="inkball.BallTest" time="0.0"/>
+  <testcase name="testBallMovement()" classname="inkball.BallTest" time="0.001"/>
+  <system-out><![CDATA[New wall added 2at7 0
+New wall added 2at8 0
+New wall added 2at9 0
+New wall added 2at10 0
+ x 15 y 1 type: 0
+ x 11 y 6 type: 1
+ x 11 y 9 type: 2
+ x 15 y 15 type: 0
+New wall added 1at7 17
+New wall added 1at8 17
+New wall added 1at9 17
+New wall added 1at10 17
+Capture Successful: true, Hole Type: 0
+Score increased by: 2.0, New Score: 2.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
